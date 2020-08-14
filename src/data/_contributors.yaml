@@ -1443,6 +1443,21 @@ kuu:
   email: miyazaqui@gmail.com
   description:
     en: "Kuu is interested in media technology on the Web"
+    
+fawazm:
+  name:
+    given: Fawaz
+    family: Mohammad
+  github: fawazmohammad
+  org:
+    name: Google
+    unit: Web Identity
+  country: Canada
+  role:
+    - author
+  email: fmohammad.hba2021@ivey.ca
+  description:
+    en: Software Development Intern working on Web Identity at Google
 
 maudnalpas:
   name:
